@@ -1,2 +1,2 @@
 # NewWorkGameSession
- 네트워크 세션파서 접속하는거까지 구현
+ UE4 Network 세션 생성 -> 플레이어 접속이 목표... ! 
